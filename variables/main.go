@@ -1,1 +1,2 @@
-package variables
+package main
+
